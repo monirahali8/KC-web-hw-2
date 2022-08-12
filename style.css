@@ -1,0 +1,54 @@
+.tittle{
+    color: rgb(74, 108, 97);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    background-color:bisque;
+    overflow: hidden;
+    background-color: beige;
+    justify-content:space-around ;
+    height: 100px;
+    align-items: center;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+.box{
+width: 50px;
+height: 100px; 
+padding: 40px;
+border: 3px solid rgb(135, 183, 139);
+background-color: rgb(195, 220, 189);
+margin: 1px;
+box-shadow: 5px 10px #888888;
+
+}
+.space{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+  
+.poster{
+    display: block;
+  margin: left 40px;;
+  margin: right 60px;;
+  width: 250%;
+}
+.button{
+    width: 100px;
+    margin-top: 20px;
+    color:rgb(144, 195, 172);
+    background-color:antiquewhite ;
+    border-color: rgb(185, 151, 107);
+}
+.h1{
+    color: rgb(74, 108, 97);
+    background-color: antiquewhite;
+}
+.h4{
+    color: rgb(42, 63, 56);
+    background-color: rgb(208, 194, 177);
+}
